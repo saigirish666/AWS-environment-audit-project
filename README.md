@@ -3,8 +3,6 @@
 This guided project is part of my cloud journey and focuses on **auditing** an AWS environment using core services like IAM, EC2, VPC, Security Groups, Network ACLs, CloudWatch, and CloudTrail.  
 All tasks were performed on the latest AWS console, using an AWS Skill Builder lab environment.
 
-> Note: This documentation is written in my own words as study notes and does **not** reproduce AWS lab content.
-
 ---
 
 ## 🚀 Table of Contents
