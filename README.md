@@ -17,7 +17,7 @@ All tasks were performed on the latest AWS console, using an AWS Skill Builder l
 - [Key Learnings & Best Practices](#key-learnings--best-practices)  
 - [🌟 Observations & Console Evolution](#-observations--console-evolution)  
 - [Evidence of Completion](#evidence-of-completion)  
-- [📌 Related Projects](#-related-projects)  
+
 
 ---
 
