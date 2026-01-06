@@ -166,8 +166,7 @@ Verify CloudTrail configuration and view raw API/console activity logs stored in
 ## Evidence of Completion
 
 - Successfully completed the AWS Skill Builder lab **“Performing a Basic Audit of Your AWS Environment”**.  
-- Lab assessment score: **100%** (<img width="1862" height="505" alt="image" src="https://github.com/user-attachments/assets/e7429799-1aa6-4c2a-800d-86133ba739e3" />
-)).  
+- Lab assessment score: **100%** <img width="1862" height="505" alt="image" src="https://github.com/user-attachments/assets/e7429799-1aa6-4c2a-800d-86133ba739e3" />  
 
 ---
 
